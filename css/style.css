@@ -20,3 +20,7 @@ body {
   a {
     text-decoration: none;
   }
+
+  .text{
+    text-align :center
+  }
